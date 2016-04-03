@@ -1,5 +1,5 @@
 {% include css/bootstrap/bootstrap.css %}
-{% include css/style.css %}
+{% include css/fableStyles.css %}
 {% include css/animate.css %}
 {% include css/style-magnific-popup.css %}
 {% include css/revolution/navigation.css %}
