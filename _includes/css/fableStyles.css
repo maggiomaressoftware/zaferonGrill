@@ -1031,7 +1031,7 @@ iframe{
 	width:100%;
 	position:relative;
 	/*background: url(../images/footer-bg.jpg);*/
-	background: url(/images/footer-bg.jpg);
+	background: url("{{ '/images/footer-bg.jpg' | prepend: site.baseurl }}");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
