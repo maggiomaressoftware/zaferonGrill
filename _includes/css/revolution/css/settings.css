@@ -16,8 +16,8 @@ website:   	http://www.themepunch.com
   font-family: 'revicons';
   src: url('../fonts/revicons/revicons.eot?5510888');
   src: url('../fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
-       url('../fonts/revicons/revicons.woff?5510888') format('woff'),
-       url('../fonts/revicons/revicons.ttf?5510888') format('truetype'),
+       url('/fonts/revicons.woff?5510888') format('woff'),
+       url('/fonts/revicons.ttf') format('truetype'),
        url('../fonts/revicons/revicons.svg?5510888#revicons') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -208,10 +208,10 @@ website:   	http://www.themepunch.com
 	
 /* CAROUSEL FUNCTIONS */
 .tp-carousel-wrapper {
-	cursor:url(openhand.cur), move;
+	cursor:url(cursors/openhand.cur), move;
 }
 .tp-carousel-wrapper.dragged {
-	cursor:url(closedhand.cur), move;
+	cursor:url(cursors/closedhand.cur), move;
 }
 
 /* ADDED FOR SLIDELINK MANAGEMENT */
