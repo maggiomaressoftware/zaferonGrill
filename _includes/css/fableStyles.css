@@ -1213,7 +1213,7 @@ ul.footer-list li a:hover{
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url(http://placehold.it/1920x1280) 50% top no-repeat fixed;
+	background: url("{{ '/images/food_1_1920x1280.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1233,7 +1233,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url(http://placehold.it/1920x1280) 50% top no-repeat fixed;
+	background: url("{{ '/images/1.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
