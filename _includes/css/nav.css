@@ -1,0 +1,18 @@
+@media(max-width:991px) {
+    .navbar-default .navbar-nav > li.social > a.first {
+        border-left: 0px;
+        padding: 0px;
+    }
+    .socialOthers {
+        padding-left: 6px;
+    }
+
+    /*.navbar-brand > img {*/
+        /*margin-top: -16px;*/
+    /*}*/
+
+}
+
+.navbar-brand > img {
+    margin-top: -16px;
+}
