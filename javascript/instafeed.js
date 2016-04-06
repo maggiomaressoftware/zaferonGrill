@@ -12,7 +12,8 @@
         sortBy: 'none',
         links: true,
         mock: false,
-        useHttp: false
+        useHttp: false,
+        accessToken: "3107725209.a3533f9.f49f47cd94af42409b3c32fc60583a2a"
       };
       if (typeof params === 'object') {
         for (option in params) {
