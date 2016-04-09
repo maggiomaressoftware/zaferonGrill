@@ -3,7 +3,7 @@
          userId: '3107725209',
          clientId: '1e35a2d87bdb4edd87788bdbbdfc278b',
  		resolution: 'thumbnail',
- 		limit: '24',
+ 		limit: '29',
  		template: '<a href="{{link}}" target="_blank"><img src="{{image}}" /></a>'
      });
      userFeed.run();
