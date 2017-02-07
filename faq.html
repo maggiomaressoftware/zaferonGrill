@@ -2,6 +2,18 @@
 layout: default
 title: FAQ
 spanHeading: FAQ
-h2Heading:
+h2Heading: Frequently Asked Questions
 pHeading:
 ---
+
+<!--begin section-grey-->
+<section class="section-grey">
+
+    <!--begin container-->
+    <div class="container text-center">
+      {% capture my_include %}{% include faq.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </div>
+
+
+</section>

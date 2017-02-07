@@ -1221,14 +1221,31 @@ ul.footer-list li a:hover{
 /* 			              04. HERO SECTIONS                   */
 /* ========================================================== */
 
-.hero-section{
+/*Jonathan addition*/
+.faq-hero-section{
+	width:100%;
+	position:relative;
+	background: url("{{ '/images/faq-hero-med.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+    background-size: cover;
+	color: white;
+	margin: 0 auto;
+	padding: 210px 0 90px 0;
+}
 
+.faq-hero-section .image-overlay{
+	background: rgba(17, 17, 17, 0.75);
+	position: absolute;
+	z-index:10;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
 }
 
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/food_1_1920x1280.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/menu-hero-med.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1248,7 +1265,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/1.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/about-hero-1920.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;

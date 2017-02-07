@@ -19,7 +19,7 @@
               {% else %}
             <a href="about.html" class="btn btn-lg btn-yellow-x-small scrool">OUR STORY</a>
               {% endif %}
-        
+
 
       </div>
       <!--end col-md-3 -->
@@ -27,16 +27,7 @@
       <!--begin col-md-3 -->
       <div class="col-md-3 padding-bottom-50">
 
-        <h4>Restaurant Hours</h4>
-          <table class="grey">
-            <tr><th>Sunday</th><td> &emsp; 11:30 am–9:30 pm</td></tr>
-            <tr><th>Monday</th><td> &emsp; Closed</td></tr>
-            <tr><th>Tuesday</th><td> &emsp; 11:30 am–9:30 pm</td></tr>
-            <tr><th>Wednesday</th><td> &emsp; 11:30 am–9:30 pm</td></tr>
-            <tr><th>Thursday</th><td> &emsp; 11:30 am–9:30 pm </td></tr>
-            <tr><th>Friday</th><td> &emsp; 11:30 am–9:30 pm </td></tr>
-            <tr><th>Saturday  </th><td> &emsp; 11:30 am–9:30 pm</td></tr>
-          </table>
+        {% include footer/hours.html %}
 
       </div>
       <!--end col-md-3 -->
@@ -44,67 +35,14 @@
       <!--begin col-md-3 -->
       <div class="col-md-3 padding-bottom-50">
 
-        <h4>FEATURED PLATES</h4>
-
-        <ul class="footer-gallery">
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-          <li class="popup-gallery">
-            <a class="popup2" href="http://placehold.it/800x600">
-              <img src="http://placehold.it/100x100" alt="instagram" />
-            </a>
-          </li>
-
-        </ul>
+        {% include footer/featured-plates.html %}
 
       </div>
       <!--end col-md-3 -->
 
       <!--begin col-md-3 -->
       <div class="col-md-3 padding-bottom-50">
-
-        <h4>CONTACT DETAILS</h4>
-
-        <p>Have any questions? Feel free to contact us at:</p>
-
-        <p class="contact_info"><i class="fa fa-map-marker"></i> 
-          <a href="https://www.google.com/maps/place/648+Bloomfield+Ave,+Verona,+NJ+07044/@40.8330467,-74.2502778,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3007612e5b2e3:0x67851c22dc2f5770!8m2!3d40.8330467!4d-74.2480891"> 648 Bloomfield Avenue <br/> Verona, New Jersey, 07044
-          </a>
-        </p> 
-
-        <p class="contact_info"><i class="fa fa-phone"></i> 973-433-7533 / 973-433-7382</p>
-
-        <p class="contact_info"><i class="fa fa-envelope-square"></i> <a href="mailto:contact@restaurant.com">contact@zaferongrill.com</a></p>
-
+        {% include footer/contact-details.html %}
       </div>
       <!--end col-md-3 -->
 
