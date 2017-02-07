@@ -7,7 +7,7 @@
 
 # Site settings
 title: Zaferon Grill
-#email: your-email@domain.com
+email: contact@zaferongrill.com
 description: > # this means to ignore newlines until "baseurl:"
   Mediterranean-Inspired American Bistro.
 #baseurl:  /zaferonGrill # the subpath of your site, e.g. /blog
@@ -16,6 +16,7 @@ url: http://zaferongrill.com
 #github_username:  jekyll
 instagram_username: zaferongrill
 facebook_username: ZafreonGrill # this was created with a spelling error
+
 
 # Build settings
 markdown: kramdown
