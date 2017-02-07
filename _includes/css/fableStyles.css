@@ -1044,6 +1044,12 @@ iframe{
 	margin: 0 auto;
 }
 
+/*Jonathan*/
+tr{
+	line-height: 24px;
+}
+
+
 .footer-top{
 	padding:65px 0 15px 0;
 	border-bottom:2px dotted #999;
