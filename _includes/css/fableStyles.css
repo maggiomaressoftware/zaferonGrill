@@ -964,7 +964,7 @@ iframe{
 
 .navbar-fixed-top {
 	/*background-color: transparent!important;*/
-	background-color: black;
+	background-color: rgba(51, 51, 51, 1);
 	transition: background-color 1s ease 0s;
 }
 
