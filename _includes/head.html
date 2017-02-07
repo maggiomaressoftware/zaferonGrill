@@ -6,6 +6,9 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <!-- Prevent auto phone number detection -->
+  <meta name="format-detection" content="telephone=no"> 
+
   <!--&lt;!&ndash; Loading Bootstrap &ndash;&gt;-->
   <!--<link href="css/bootstrap.css" rel="stylesheet">-->
 
