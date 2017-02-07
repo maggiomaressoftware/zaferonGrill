@@ -18,8 +18,8 @@
             <span class="icon-bar"></span>
           </button>
 
-         <!--  <a href="index.html" class="navbar-brand brand scrool"><img src="images/logo.png" alt="logo"></a> -->
-          <a href="index.html" class="navbar-brand brand scrool">ZAFERON GRILL</a>
+          <a href="index.html" class="navbar-brand brand scrool"><img src="./images/zaferon-grill-lockup-white.png" alt="logo"></a>
+         <!--  <a href="index.html" class="navbar-brand brand scrool">ZAFERON GRILL</a> -->
         </div>
 
         <div id="navbar-collapse-02" class="collapse navbar-collapse">
@@ -44,6 +44,13 @@
             <li>
               {% endif %}
             <a href="./menu.html">Menu</a></li>
+
+            {% if page.url == '/faq.html' %}
+            <li class="selected">
+              {% else %}
+            <li>
+              {% endif %}
+            <a href="/#">FAQ</a></li>
 
 
             <!--<li><a href="reservations.html">Reservations</a></li>-->

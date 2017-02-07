@@ -14,7 +14,12 @@
 
         <p>A health oriented restaurant that brings together the falvors and spices that your palate wants.</p>
 
-        <a href="about.html" class="btn btn-lg btn-yellow-x-small scrool">OUR STORY</a>
+        {% if page.url == '/about.html' %}
+            <a href="/about/#hero-section" class="btn btn-lg btn-yellow-x-small scrool">OUR STORY</a>
+              {% else %}
+            <a href="about.html" class="btn btn-lg btn-yellow-x-small scrool">OUR STORY</a>
+              {% endif %}
+        
 
       </div>
       <!--end col-md-3 -->
@@ -117,7 +122,7 @@
 
           <!--begin copyright -->
           <div class="copyright ">
-            <p>© 2016 Zaferon. Web design by MaggioMares Software.</p>
+            <p>© 2017 Zaferon. Web design by MaggioMares Software.</p>
 
           </div>
           <!--end copyright -->
