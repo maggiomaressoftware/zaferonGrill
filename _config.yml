@@ -8,12 +8,11 @@
 # Site settings
 title: Zaferon Grill
 email: contact@zaferongrill.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until the next key
   Mediterranean-Inspired American Bistro.
 #baseurl:  /zaferonGrill # the subpath of your site, e.g. /blog
 url: http://zaferongrill.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: zaferongrill
 instagram_username: zaferongrill
 facebook_username: ZafreonGrill # this was created with a spelling error
 
