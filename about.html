@@ -24,35 +24,14 @@ pHeading: A unique Mediterranean and Persian Inspired culinary experience
             <!--end col-md-6-->
 
             <!--begin col-md-6-->
-            <div class="col-md-6 padding-top-40 padding-bottom-40 wow slideInRight">
+            <div class="col-md-6 padding-top-0 padding-bottom-40 wow slideInRight">
                 <div class="row text-center">
                     <span class="comic-text text-center">Discover</span>
                 </div>
-
                 <!-- <h2 class="section-title">A New Kind of Food</h2> -->
-
-                <p>
-                    Zaferon Grill is a new concept restaurant offering a unique experience inspired
-                    by Mediterranean and Persian traditions and flavors. The ambiance is
-                    contemporary, casual and inviting. The open-kitchen design allows guests to
-                    watch their food being prepared.
-                    <br/>
-                    Our culinary creations are fresh and nutritious featuring organic, hormone and
-                    antibiotic-free meat and poultry, wild caught fish and organic produce finely
-                    blended with herbs and spices. All of this is complemented by flat bread baked
-                    in-house daily.
-                    <br/>
-                    There will be something for everyone to enjoy at Zaferon Grill. Guests can enjoy
-                    freshly blended juices from the juice bar or one of the many items on the menu
-                    which also include gluten free, vegan and vegetarian options.
-                    <br/>
-                    <br/>
-                    We use locally sourced products so long as available, and are committed to
-                    sustainable practices.
-                </p>
-
+                {% capture aboutZaferon %}{% include about/aboutZaferon.md %}{% endcapture %}
+                {{ aboutZaferon | markdownify }}
                 <!-- <a href="#" class="btn btn-lg btn-yellow scrool">Learn About Our Food</a> -->
-
             </div>
             <!--end col-md-6-->
 
@@ -73,7 +52,7 @@ pHeading: A unique Mediterranean and Persian Inspired culinary experience
 
 
 <!--begin section-white-->
-<section class="section-white small-padding no-padding-bottom">
+<section class="section-white small-padding">
 
     <!--begin container-->
     <div class="container">
@@ -82,27 +61,25 @@ pHeading: A unique Mediterranean and Persian Inspired culinary experience
         <div class="row">
 
             <!--begin col-md-6-->
-            <div class="col-md-6 text-center padding-top-50 padding-bottom-50 wow slideInLeft">
+            <div class="col-md-6 col-md-push-3 text-center padding-top-50 padding-bottom-50 wow slideInLeft">
 
                 <span class="comic-text">Meet</span>
 
                 <h4 class="section-title">Executive Chef Luis Andres Ramirez Villarroel</h4>
 
-                <p>As an executive chef, Luis Villarroel brings the flavors from one of the world's most exciting culinary scenes right to Verona, NJ.  He was trained in Santiago, Chile, at the prestigious Culinary Arts and Management Institute, where he solidified both his technique and passion for preparing innovative dining experiences. Chef Luis is also trained in French Cuisine, and credits his inspiration for cooking to his family, particularly his grandmother’s delicious food
-through which he felt her love.</p>
-
-
-
+                {% capture meetLuis %}{% include about/meetLuis.md %}{% endcapture %}
+                {{ meetLuis | markdownify }}
             </div>
             <!--end col-md-6-->
 
-            <!--begin col-md-6-->
-            <div class="col-md-6 wow slideInRight">
+            <!-- Insert Photo of Luis  -->
+            <!-- begin col-md-6-->
+            <!-- <div class="col-md-6 wow slideInRight">
 
                 <img src="http://placehold.it/800x700" alt="picture" class="width-100">
 
-            </div>
-            <!--end col-md-6-->
+            </div> -->
+            <!--end col-md-6 -->
 
         </div>
         <!--end row-->
@@ -114,7 +91,7 @@ through which he felt her love.</p>
 <!--end section-white-->
 
 <!--begin section-grey-->
-<section class="section-grey small-padding no-padding-bottom">
+<section class="section-grey small-padding">
 
     <!--begin container-->
     <div class="container">
@@ -123,27 +100,14 @@ through which he felt her love.</p>
         <div class="row">
 
             <!--begin col-md-6-->
-            <div class="col-md-6 wow slideInRight">
-                <img src="http://placehold.it/800x700" alt="picture" class="width-100">
-            </div>
-            <!--end col-md-6-->
-
-            <!--begin col-md-6-->
-            <div class="col-md-6 text-center padding-top-50 padding-bottom-50 wow slideInLeft">
+            <div class="col-md-6 col-md-push-3 text-center padding-top-0 padding-bottom-50 wow slideInLeft">
 
                 <span class="comic-text">Meet</span>
 
                 <h4 class="section-title">Soody Nelson, Owner</h4>
 
-                <p>
-                    “Growing up, I had a large family,” says Soody Nelson, the owner of Zaferon Grill.  “We regularly had friends and relatives dine with us. Our table was always set for 10 or more people, and my mother cooked for twice that in anticipation of unexpected guests, who were always welcomed.  She would offer a feast creatively and spontaneously.  Every meal was prepared by my mother with fresh ingredients - farm-to-table style. Food was a sensory symphony meant to be enjoyed in its natural, pure state.”
-                    <br/>
-                    These are the same principles guiding the culinary concept at Zaferon Grill.
-                    <br/>
-                    The name of the restaurant, Zaferon, is also a subtle nod to her roots—it’s the Persian pronunciation of the spice, saffron. Saffron is the trademark spice of Persian cuisine that’s gaining traction around the world—learn all about it <a href="https://en.wikipedia.org/wiki/Saffron"> here</a>.
-                    <br/>
-                    Just like the dining table from her childhood, Zaferon will be a gathering place where guests can celebrate. "Food is at the center of every gathering and helps people share their care and love for one another.
-                </p>
+                {% capture meetSoody %}{% include about/meetSoody.md %}{% endcapture %}
+                {{ meetSoody | markdownify }}
 
 
 

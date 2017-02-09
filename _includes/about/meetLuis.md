@@ -1,0 +1,3 @@
+<br/>
+As an executive chef, Luis Villarroel brings the flavors from one of the world's most exciting culinary scenes right to Verona, NJ.  He was trained in Santiago, Chile, at the prestigious Culinary Arts and Management Institute, where he solidified both his technique and passion for preparing innovative dining experiences. Chef Luis is also trained in French Cuisine, and credits his inspiration for cooking to his family, particularly his grandmother’s delicious food
+through which he felt her love.

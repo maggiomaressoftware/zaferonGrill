@@ -64,6 +64,7 @@ p {
 	font-weight: 400;
 	color: #777;
 	margin-bottom:25px;
+	text-align: justify;
 }
 
 p.hero-text{
@@ -73,6 +74,8 @@ p.hero-text{
 	line-height: 30px;
 	padding:30px 0;
 	color:rgba(238, 238, 238, 0.5);
+	/*Jonathan*/
+	font-family: 'Montserrat', sans-serif;
 }
 
 p.hero-text:before{
@@ -141,7 +144,7 @@ h2.section-title{
 	color: #252525;
 	text-transform:uppercase;
     font-size: 42px;
-    line-height: 50px;
+    line-height: 77px;
     margin: 0 0 20px 0;
 }
 
@@ -271,6 +274,12 @@ iframe{
 .section-grey.small-padding, .section-white.small-padding{
 	padding:50px 0;
 }
+
+/*Jonathan*/
+.section-grey.no-padding{
+	padding: 0 0 0 0;
+}
+
 
 .section-grey.no-padding-bottom, .section-white.no-padding-bottom, .section-dark.no-padding-bottom, .section-blue.no-padding-bottom{
 	padding:90px 0 0 0;
