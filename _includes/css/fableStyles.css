@@ -1288,7 +1288,7 @@ ul.footer-list li a:hover{
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/menu-hero-med.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/shrimp-chorizo-med.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1296,7 +1296,7 @@ ul.footer-list li a:hover{
 }
 
 .menu-hero-section .image-overlay{
-	background: rgba(17, 17, 17, 0.75);
+	background: rgba(17, 17, 17, 0.5);
 	position: absolute;
 	z-index:10;
 	top: 0;
@@ -1308,7 +1308,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/about-hero-1920.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/about-us-med.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1316,7 +1316,7 @@ ul.footer-list li a:hover{
 }
 
 .about-hero-section .image-overlay{
-	background: rgba(17, 17, 17, 0.75);
+	background: rgba(17, 17, 17, 0.5);
 	position: absolute;
 	z-index:10;
 	top: 0;
