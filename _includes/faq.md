@@ -1,6 +1,7 @@
 #### What does the name Zaferon mean?
 Zaferon is the Persian pronunciation for saffron, a delicious and historically
 royal spice. Learn more about saffron **<a href="https://en.wikipedia.org/wiki/Saffron"> here</a>.**
+
 #### I can’t eat gluten/dairy/nuts, do you have options for me?
 Absolutely! Please let your server know what allergens you have and we
 can present you with allergen-free options.
@@ -21,6 +22,7 @@ restaurant to ask.
 
 #### Do you have a menu online I could review?
 Yes, view our menu **<a href="/menu.html"> here</a>.**
+
 #### Do you accept reservations?
 We highly recommend reservations. You can make a reservation via
 OpenTable, or by giving us a call.
@@ -31,5 +33,5 @@ wine pairing recommendations available, so you can choose the perfect
 compliment to your meal.
 
 #### Do you cater?
-Yes. We cater for a number of private and corporate events with delicious,
+Yes. We cater for private and corporate events with delicious,
 fresh foods. View our full catering menu **<a href="/menu.html"> here</a>.**
