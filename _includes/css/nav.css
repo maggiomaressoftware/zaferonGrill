@@ -3,17 +3,23 @@
         border-left: 0px;
         padding: 0px;
     }
-    .socialOthers {
+
+    .nav > li.social-mobile{
+      display:inline-block;
+    }
+    .nav {
+      text-align: center
+    }
+    /*.socialOthers {
         padding-left: 6px;
     }
     .navbar-default {
         background-color: black;
-    }
+    }*/
 
     /*.navbar-brand > img {*/
         /*margin-top: -16px;*/
     /*}*/
-
 }
 /*
 .navbar-brand > svg {

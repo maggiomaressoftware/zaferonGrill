@@ -3611,6 +3611,14 @@ tbody.collapse.in {
   color: #333;
   white-space: nowrap;
 }
+
+/*Jonathan*/
+@media screen and (max-width: 990px) {
+  .navbar-default .navbar-nav > li > a {
+    text-align: center;
+  }
+}
+
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   color: #262626;
