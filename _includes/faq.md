@@ -2,7 +2,7 @@
 Zaferon is the Persian pronunciation for saffron, a delicious and historically
 royal spice. Learn more about saffron **<a href="https://en.wikipedia.org/wiki/Saffron"> here</a>.**
 
-#### I can’t eat gluten/dairy/nuts, do you have options for me?
+#### I can’t eat gluten/dairy/nuts. Do you have options for me?
 Absolutely! Please let your server know what allergens you have and we
 can present you with allergen-free options.
 
