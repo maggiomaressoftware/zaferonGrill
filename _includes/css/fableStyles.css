@@ -928,6 +928,16 @@ iframe{
 	text-align: center;
 }
 
+/*.loader-logo {
+	position:absolute;
+	top:60%;
+	margin-top:-10px;
+	left:50%;
+	margin-left:-40px;
+
+	text-align: center;
+}*/
+
 .sk-three-bounce .sk-child {
 	width: 20px;
 	height: 20px;
