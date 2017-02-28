@@ -1,5 +1,5 @@
 {% include css/bootstrap/bootstrap.css %}
-{% include css/fableStyles.css %}
+{% include css/fableStyles.scss %}
 {% include css/animate.css %}
 {% include css/nav.css %}
 {% include css/menu.css %}
@@ -10,6 +10,3 @@
 {% include css/fonts/font-awesome.min.css %}
 {% include css/fonts/icons-helper.css %}
 {% include css/fonts/icons-main.css %}
-
-
-
