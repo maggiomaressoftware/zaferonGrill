@@ -1092,6 +1092,16 @@ background-size: cover;
 transition: background-color 1s ease 0s;
 }
 
+.mothers-day-background {
+	background-color: #ee81a9;
+}
+
+@media only screen and (min-width: 690px) {
+	.mothers-day-background {
+		height: 80px;
+	}
+}
+
 /*Customizations */
 /*Jonathan*/
 tr{
