@@ -1094,11 +1094,18 @@ transition: background-color 1s ease 0s;
 
 .mothers-day-background {
 	background-color: #ee81a9;
+	margin:auto;
 }
 
 @media only screen and (min-width: 690px) {
 	.mothers-day-background {
 		height: 80px;
+	}
+}
+
+@media only screen and (min-width: 1202px) {
+	.mothers-day-background {
+		padding-top: 25px;
 	}
 }
 
