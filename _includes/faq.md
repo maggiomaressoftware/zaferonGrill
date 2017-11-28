@@ -16,6 +16,23 @@ We are located in **<a href="https://www.google.com/maps/place/648+Bloomfield+Av
 #### Do you have parking available?
 Yes. We have ample parking available right next to the restaurant.
 
+#### Do you have a reservation policy?
+Zaferon Grill is a small restaurant with limited seating. The restaurant’s continued viability relies on reservations being honored by our guests, and adequate notice given in case of any changes or cancellation. We proactively confirm reservations in advance. Before booking your reservation, please review our Cancellation Policy below. 
+
+A credit card is required to hold your reservation. The credit card information is held by a third party secured site, and can only be accessed if the reservation is cancelled less than 24 hours prior to the reserved seating or, in case of a no show. Upon reservation, please inform us of any food allergies or dietary restrictions you have; as well as a special occasion you wish to celebrate at Zaferon Grill.
+
+
+#### What is your cancellation policy?
+The cancellation fee reflects the cost incurred by Zaferon Grill for lost revenue as a result of turning away other guests. Accordingly, the following applies:
+
+
+1. Zaferon Grill reserves the right to charge a cancellation fee of $30 per person for any no
+show; and cancellation or reduction in the number of guests, if such notice was not given at
+least 24 hours prior to your booked seating.
+
+2. We will notify you when such a fee is charged to your credit card.
+
+
 #### Are you currently hiring?
 Maybe, depending on the season. Feel free to call or stop by the
 restaurant to ask.
