@@ -111,6 +111,10 @@ p {
     text-align: justify;
 }
 
+.copyright p{
+    text-align: unset;
+}
+
 .no-justify{
     text-align: left;
 }
