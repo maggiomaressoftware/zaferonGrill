@@ -52,10 +52,15 @@ Version: 1.0
 }
 
 .holiday-images {
-    max-width: 80%;
+    max-width: 93%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.hours {
+    color: #ddd;
+
 }
 
 /* ========================================================== */
@@ -2010,4 +2015,26 @@ p.contact_success_box{
     .instagram-text{
         display:none;
     }
+
+    /*Jonathan*/
+    .contact_info {
+        text-align:center;
+    }
+
+    .reservations {
+        text-align:center;
+    }
+
+    .reservations-button-wrapper {
+        display: inline-block;
+    }
+
+    .reservations-button-wrapper a{
+        margin-top: 0px;
+    }
+
+    .quick-navigate-wrapper a{
+        margin-top: 14px;
+    }
+
 }
