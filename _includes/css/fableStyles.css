@@ -1180,12 +1180,12 @@ iframe{
 }
 
 .marble-background{
-background: url("{{ '/images/footer-bg.jpg' | prepend: site.baseurl }}");
-background-position: center center;
-background-repeat: no-repeat;
-background-attachment: fixed;*/
-background-size: cover;
-transition: background-color 1s ease 0s;
+    background: url("{{ '/images/footer-bg.jpg' | prepend: site.baseurl }}");
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed; removed b/c it was causing wierdness on iOS ipad/iphone*/
+    background-size: cover;
+    transition: background-color 1s ease 0s;
 }
 
 .mothers-day-background {
