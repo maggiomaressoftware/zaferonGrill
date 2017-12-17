@@ -24,6 +24,38 @@ Version: 1.0
 
 --- */
 
+/*Jonathan Additions*/
+
+/*Flex box stuff*/
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.item-grow {
+
+}
+
+.divider {
+    height: 50px;
+}
+
+.section-holiday{
+	background-color: #F6F7EB;
+	padding-top: 104px;
+	padding-bottom: 10px;
+}
+
+.holiday-title {
+	padding-bottom: 15px;
+}
+
+.holiday-images {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
 
 /* ========================================================== */
 /* 			            01. GENERAL LAYOUT                    */
@@ -1053,7 +1085,7 @@ iframe{
 }
 
 .navbar-default .navbar-nav > li.social > a i{
-	font-size:30px;
+	font-size:38px;
 	line-height: 22px!important;
 	color: #fff;
     -webkit-transition: all 0.5s ease;

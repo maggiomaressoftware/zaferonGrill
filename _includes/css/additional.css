@@ -1,0 +1,8 @@
+/*Flex box stuff*/
+.flex-container {
+    display: flex;
+}
+
+.divider {
+    height: 50px;
+}
