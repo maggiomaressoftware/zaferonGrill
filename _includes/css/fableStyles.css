@@ -92,6 +92,11 @@ Version: 1.0
     transition: .5s ease;
 }
 
+.special-menu img {
+    width: 100%;
+    height: 100%;
+}
+
 @media only screen and (min-width: 1024px) {
     .reserve-image-text-wrapper-left {
         left: 25%;
@@ -108,6 +113,11 @@ Version: 1.0
     .holiday-item-right:hover .reserve-image-text-wrapper-right {
         opacity: 1;
     }
+
+    .special-menu img {
+    width: 70%;
+    height: 100%;
+}
 }
 
 
@@ -115,6 +125,15 @@ Version: 1.0
     font-family: 'Montserrat', sans-serif;
     font-size: 38px;
     color: white;
+}
+
+/*Special Menu Stuff*/
+.section-grey.special-menu {
+    border-top: unset;
+}
+
+.years-hero-section {
+    display: none;
 }
 
 /* ========================================================== */
