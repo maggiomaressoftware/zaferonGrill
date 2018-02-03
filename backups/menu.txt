@@ -1,0 +1,476 @@
+this file serves as a backup of the locu menu formatting so we don't go crazy
+
+= Dinner
+
+== Appetizers
+
+Zaferon Salad
+Organic field greens, bibb lettuce, orange marinated Bosc pears, and goat cheese, Dijon citrus dressing
+12
+
+Burrata
+Truffle burrata, arugula, almonds and roasted yam salad, champagne vinaigrette
+14
+
+Clams
+Sauteed littleneck clams, bacon lardoons and shallots in dill white wine sauce
+16
+
+Crab Cake
+Jumbo lump crabmeat, Brunoise peppers, chives and scallions, roulade sauce
+15
+
+Shrimp and Chorizo
+Sautéed shrimp, dry aged chorizo, tomatoes and garlic cooked in white wine sauce
+14
+
+Short Ribs Pancakes
+Pulled braised short ribs over gold yukon potato pancakes, demi-glace sauce
+16
+
+== Flatbreads
+
+% Home made flatbreads, fresh from our oven
+
+Ahi Tuna
+Seared tuna, arugula, red onions and toasted sesame seeds, wasabi aioli
+15
+
+Braised Short Rib
+Pulled braised short rib, mozzarella and scallions, demi-glace sauce
+15
+
+== Grilled on Skewer
+
+% Served wit saffron-infused basmati rice, vegatable skewer, and choice of chutney
+
+Chicken
+22
+
+Salmon
+24
+
+Shrimp
+27
+
+== Chutneys
+
+% 4
+
+Mango Salsa
+
+Apple Cinnamon
+
+% Sharing Plate Charge 10
+
+% Please inform your server of any food allergies you have
+
+== Entrees
+
+Half Roasted Chicken
+Herb roasted chicken and rosemary fingerling potatoes, spicy cilantro sauce
+24
+
+Braised Short Ribs
+Slow braised bone-in short ribs on whipped mashed potatoes, au jus
+28
+
+Horseradish Salmon
+Horseradish crusted organic King salmon, and sauteed French beans, spicy mustard aioli
+29
+
+Marinated Skirt Steak
+Marinated 10 oz. Black Angus skirt steak with gorgonzola and truffle rustic mashed potatoes, mint chimichurri sauce
+30
+
+Lobster Ravioli
+Truffle and onion cream sauce
+32
+
+Nana's Favorite Lamb
+Saffron infused braised lamb shank, puréed tomatoes, dried Persian limes with fava beans and dill basmati rice
+30
+
+Diver Scallops
+Pan roasted Maine scallops on nero di sepia vegatable risotto
+32
+
+== Burgers
+
+% Served with choice of salad or French fries
+
+Classic
+10 oz ground beef burger served on a brioche roll with lettuce, onion and tomato
+15
+
+Veggie
+Ground mixed vegetables served on a brioche roll with lettuce, tomato, onion and pickles
+14
+
+Salmon
+Ground organic King salmon served on a brioche roll with dill aioli and pickles
+16
+
+== Sides
+
+% 7
+
+Roasted Baby Carrots
+
+French Beans
+
+Sauteed Spinach
+
+Cherry Peppers
+
+Grilled Asparagus
+
+==
+
+% Executive Chef: Luis Ramirez
+
+% Zaferon Grill serves organic or hormone and antibiotic free poultry and meat. We are committed to using fresh, locally grown organic and sustainable products whenever possible.
+
+= Brunch
+
+== Eggs
+
+Three Organic Eggs Any Style
+Served with home fries and toast
+10
+
+Three Eggs, Omelette or Scrambled
+Choice of any three items: spinach, sautéed onions, mushrooms, tomatoes, avocado, peppers, ham, bacon, goat cheese, swiss cheese, Brie cheese and Gruyère, with home fries and toast
+12
+
+Wild Mushroom Fritata
+Portobello, shitake and melted mozzarella
+12
+
+Farmers Market Fritata
+Asparagus, spinach, tomato and Brie
+12
+
+Eggs Benedict
+Two poached organic eggs served over toasted English muffin, Canadian bacon and topped with hollandaise sauce
+12
+
+Short Ribs Benedict
+Two poached organic eggs served over pulled short ribs, toasted English muffin and topped with chipotle hollandaise sauce
+14
+
+== Griddle
+
+Classic Pancakes
+Stack of our signature buttermilk pancakes with choice of any two items: chocolate chips, blueberries, strawberries, sliced bananas, pecans, caramel sauce
+10
+
+French Toast
+Two slices of challah bread dipped in vanilla bean mix, served with mixed fruit, whipped mascarpone cheese, Vermont maple syrup
+12
+
+== Entrees
+
+Turkey BLT
+Thin sliced oven roasted turkey, lettuce, heirloom tomatoes, crispy bacon and herb aioli, served on toasted baguette
+14
+
+Garden Skillet
+Roasted zucchinis, eggplants, carrots and potatoes served with avocado hash, legume medley and corn tortillas
+12
+
+Steak and Eggs
+7 oz skirt steak, two eggs any style, toast and home fries
+18
+
+Zaferon Burger
+10 oz. Black Angus beef burger, cheddar cheese, avocado and chipotle aioli, choice of mixed greens or french fries
+15
+
+== Salads
+
+Classic Caesar
+Chopped Romaine lettuce, shaved parmesan cheese, garlic croutons Add: Chicken 4, Salmon 6, Shrimp 8
+10
+
+Steak Salad
+Sliced Black Angus skirt steak, mixed greens, avocado, red onions and cucumber, herb vinaigrette
+16
+
+== Sides
+
+Toast
+1
+
+Egg Any Style
+2
+
+Home Fries
+3
+
+Bacon
+4
+
+Onions and Peppers
+4
+
+Sweet Sausage
+5
+
+Applewood Chicken Sausage
+5
+
+Fruit Bowl
+5
+
+Zaferon Fruit Bowl
+8
+
+Smoked Salmon
+8
+
+== Beverages
+
+Fresh Squeezed Orange Juice
+8
+
+Assorted Organic Teas
+3.50
+
+Coffee
+3
+
+Cappuccino
+4.50
+
+Espresso
+4
+
+% Executive Chef: Luis Ramirez
+
+% Zaferon Grill serves organic eggs and milk, and organic or hormone free poultry and meat.We are committed to using fresh, locally grown organic and sustainable products whenever possible.
+
+= Lunch
+
+== Salads
+
+Salmon
+Pan seared organic salmon, goat cheese, roasted yams, pumpkin seeds, avocado and Bibb lettuce, citrus vinaigrette
+14
+
+Quinoa Salad
+Roasted squash, dried cranberries, arugula, red onions and walnuts, lemon vinaigrette
+14
+
+Beet and pomegranate
+Roasted beets, fresh pomegranate, pecans, field greens and feta cheese, champagne vinairette
+14
+
+Pear and Gorgonzola
+Sliced pear, almonds, avocado, arugula and gorgonzola cheese, trufle vinaigrette
+12
+
+== Soup of the Day
+
+4/7
+
+== Sandwiches/Wraps
+
+Zaferon Wrap
+Grilled chicken, mixed greens, dried cranberries and cucumber, lemon-pepper dressing
+12
+
+Vegan Sandwich
+Red pepper hummus, roasted eggplants, avocado and tomatoes on multigrain toast
+12
+
+Turkey Breast
+Thin sliced turkey breast, bacon marmalade, tomato and Bibb lettuce on whole wheat toast
+14
+
+Omelette
+Three egg omelette with sauteed onions, mushrooms, spinach and goat cheese served with multigrain toast and field greens salad
+12
+
+Ahi Tuna Tacos
+Pan seared Ahi tuna served on two corn tortillas with Asian red cabbage slaw
+15
+
+Rice Bowl
+Choice of salmon or steak, avocado hash, and basmati rice, chipotle-cilantro aioli
+16
+
+Grilled Chicken Sandwich
+Marinated chicken breast, mozzarella, avocado hash and herb aioli on brioche roll
+14
+
+== Burgers
+
+% served with choice of salad or French fries
+
+Classic
+10 oz ground beef burger served on a brioche roll with lettuce, onion and tomato
+14
+
+Veggie
+Ground mixed vegetables served on a brioche roll with lettuce, tomato, onion and pickles
+14
+
+Salmon
+Ground organic king salmon served on a brioche roll with dill aioli
+15
+
+== Grilled on Skewer
+
+% Served with saffron Basmati rice or fresh-baked flatbread and choice of chutney
+
+Chicken
+20
+
+Salmon
+22
+
+Shrimp
+22
+
+== Chutneys
+
+% 4
+
+Mango Salsa
+
+Apple Cinnamon
+
+==
+
+% Executive Chef: Luis Ramirez
+
+% Zaferon Grill serves organic or hormone and antibiotic free poultry and meat. We are committed to using fresh, locally grown organic and sustainable products whenever possible.
+
+% Please inform your server of any food allergies you have.
+
+= Dessert & Beverages
+
+== Natural Juices
+
+% Freshly Blended
+
+Green Medley
+Kale, spinach, celery and avocado
+6
+
+Citrus Ginger
+Orange, red grapefruit, white grapefruit and ginger
+6
+
+Morning Punch
+Pineapple, celery, green apple and cucumber
+7
+
+Red Velvet
+Strawberries, raspberries, blueberries, beets and carrot
+7
+
+Tropic Mix
+Mango, banana, orange and coconut milk
+8
+
+== Desserts
+
+% Petite layered cakes
+
+Just Vanilla
+Vanilla ganache, sponge cake, mascarpone cream, vanilla jelly, chantilly
+9
+
+Strawberry Mascarpone
+Strawberry raspberry jelly, mascarpone mousse, pistachio
+9
+
+Peanut Butter Caramel
+Peanut feuilletine, milk chocolate cream, peanut butter mouse
+9
+
+Flourless Triple Chocolate
+Chocolate ganache, chocolate chantilly cream, chocolate mouse
+9
+
+Gelato, Sorbet
+7
+
+== Beverages
+
+Coffee
+3
+
+Espresso
+4
+
+Double Espresso
+4.50
+
+Cappuccino
+4.50
+
+Latte
+4.50
+
+Macchiato
+4
+
+Regular and Herbal Tea
+3.50
+
+= Catering
+
+== Plans
+
+% *All Plans Include Bread Tray
+
+Plan A
+Assorted sandwich tray and cold pasta salad 11.50 p/p
+
+Plan B
+Assorted sandwich tray and garden salad 11.50 p/p
+
+Plan C
+Assorted sandwich tray, choice of garden salad or cold pasta salad, and fresh baked cookie tray 13.50 p/p
+
+Plan D
+Assorted sandwich tray, garden salad, fresh sliced fruit platter, and fresh baked cookie tray 16.50 p/p
+
+Protein Plan
+Choice of lemon pepper chicken breast or sesame crusted yellow fin tuna, assorted sandwich tray, garden salad and fresh sliced fruit, and fresh baked cookie tray 21.50 p/p
+
+== Protein Platters
+
+Chicken Tray
+Grilled bone-in chicken breast topped with lemon pepper sauce 7.00 p/p
+
+Citrus Salmon
+Pan seared salmon drizzled with citrus sauce 8.00 p/p
+
+Tuna Platter
+Sesame crusted yellow fin tuna served with wasabi aioli and soy sauce 9.00 p/p
+
+== Individual Trays
+
+Assorted Sandwich
+Turkey, ham, vegan, tuna salad and grilled chicken options 8.00 p/p
+
+Pasta Salad
+Capellini pasta tossed with pesto, tomatoes, carrots and red cabbage 4.00 p/p
+
+Garden Salad
+Mixed greens, tomatoes, cucumbers, carrots and mandarins, balsamic dressing 4.00 p/p
+
+Sliced Fruit
+Sliced honeydew, cantaloupe, pineapple and mixed berries 4.50 p/p
+
+Baked Cookies
+Chocolate chip, white chocolate and macadamian nuts, oatmeal and raisin 2.25 p/p
+
+% Executive Chef: Luis Ramirez
+
+% Zaferon Grill serves organic or hormone and antibiotic free poultry and meat. We are committed to using fresh, locally grown organic and sustainable products whenever possible.
+
