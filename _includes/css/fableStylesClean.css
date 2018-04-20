@@ -1136,11 +1136,11 @@ transition: background-color 1s ease 0s;
     }
 }
 
-@media only screen and (min-width: 1202px) {
+/* @media only screen and (min-width: 1202px) {
     .mothers-day-background {
         padding-top: 25px;
     }
-}
+} */
 
 /*Customizations */
 /*Jonathan*/
