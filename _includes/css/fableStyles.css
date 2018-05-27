@@ -1204,11 +1204,15 @@ iframe{
 
 .mothers-day-background {
     background-color: #ee81a9;
-    margin:auto;
+    margin: auto;
+}
+
+.notice {
+    margin: auto;
 }
 
 @media only screen and (min-width: 690px) {
-    .mothers-day-background {
+    .mothers-day-background, .notice {
         height: 80px;
     }
 }
